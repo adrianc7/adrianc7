@@ -40,8 +40,6 @@ Lately, I’ve been working with Snowflake, dbt, and Databricks to design modern
 | [**Inter-University Summit Project Presentation**](#) | Academic research project and presentation focusing on data-driven insights and automation across university collaborations. | Data Analytics · Visualization |
 | [**Machine & Deep Learning Projects**](#) | Experiments and prototypes for machine and deep learning models created as part of graduate coursework. | Python · TensorFlow · Jupyter |
 
-> Projects marked with `#` are private or in progress — links will be added when made public.
-
 ---
 
 ## Technical Skills
