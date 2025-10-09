@@ -1,11 +1,11 @@
 # Adrian Chavez-Loya  
-**Data Engineer | Cloud & Analytics Enthusiast | Lifelong Learner**
+**Data Engineer | Data Analyst | Lifelong Learner**
 
-I’m a data engineer passionate about building reliable, scalable, and insightful data systems.  
-My work centers on turning raw data into something meaningful—through solid architecture, clean transformations, and efficient delivery pipelines.  
+I’m a data engineer focused on bridging the gap between data engineering** and data analytics—building the systems that make high-quality insights possible downstream.  
+My work centers on transforming raw, unstructured data into reliable, analytics-ready datasets through scalable pipelines, efficient transformations, and strong data modeling practices.
 
-I enjoy exploring the intersection of analytics and engineering, where good data infrastructure unlocks better decisions.  
-Lately, I’ve been working with Snowflake, dbt, and Databricks to design modern cloud data stacks and automate workflows end to end.
+I’m passionate about understanding how every part of the data lifecycle connects—from ingestion and orchestration to modeling and visualization.  
+Currently, I’m deepening my skills and learning how to automate transformations, implement data quality checks, and design end-to-end modern cloud data stacks that enable seamless analytics and decision-making.
 
 ---
 
