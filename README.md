@@ -37,6 +37,7 @@ Currently, I’m deepening my skills and learning how to automate transformation
 | [**Advanced Python Projects & Exercises**](https://github.com/adrianc7/advanced-python-projects-and-exercises) | Collection of advanced Python projects including stock trading automation, cryptocurrency arbitrage detection, API data ingestion, and algorithmic exercises emphasizing OOP and data-driven logic. | Python · APIs · OOP · Data Analysis |
 | [**Key Indicators: Life Expectancy Analysis**](https://github.com/adrianc7/key-indicators-life-expectancy) | Regression-based study of WHO/UN global health data (2000–2015). Identified education, vaccination, and income equality as key predictors of life expectancy, with models refined for multicollinearity. | Python · pandas · statsmodels · seaborn · Regression |
 | [**Inter-University Summit Project Presentation**](https://github.com/adrianc7/inter-university-summit-project-presentation) | Presented a SQL + Power BI case study on how SQL Views optimize analytics integration. Demonstrated query simplification, server-side pre-aggregation, and efficient dashboard design. | SQL Server · T-SQL · Power BI |
+| [**Korean Lottery (Lotto 6/45) Data Analysis**](https://github.com/adrianc7/korean-lottery-analysis) | Exploratory analysis of Korean Lotto 6/45 historical draws. Performed EDA, statistical distribution analysis, and visualization of frequency trends using Python to study randomness and number behavior. | Python · pandas · matplotlib · seaborn · EDA |
 
 ---
 
