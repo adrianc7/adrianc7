@@ -1,11 +1,11 @@
 # Adrian Chavez-Loya  
 **Data Engineer | Data Analyst**
 
-I’m a data engineer focused on bridging the gap between data engineering** and data analytics—building the systems that make high-quality insights possible downstream.  
-My work centers on transforming raw, unstructured data into reliable, analytics-ready datasets through scalable pipelines, efficient transformations, and strong data modeling practices.
+I'm a data engineer focused on bridging the gap between data engineering and analytics—building scalable systems that enable high-quality insights downstream. My work transforms raw, unstructured data into reliable, analytics-ready datasets through efficient pipelines, robust transformations, and strong data modeling practices.
 
-I’m passionate about understanding how every part of the data lifecycle connects—from ingestion and orchestration to modeling and visualization.  
-Currently, I’m deepening my skills and learning how to automate transformations, implement data quality checks, and design end-to-end modern cloud data stacks that enable seamless analytics and decision-making.
+I'm passionate about understanding the complete data lifecycle—from ingestion and orchestration to modeling and visualization. Through hands-on projects, I'm exposing myself to a diverse technology ecosystem while maintaining core expertise in Python and SQL for data processing, and Tableau/Power BI alongside Python visualization libraries for analytical storytelling.
+
+Currently, I'm deepening my skills in pipeline automation, data quality implementation, and designing modern cloud data stacks that support seamless analytics and decision-making.
 
 ---
 
