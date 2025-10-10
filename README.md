@@ -38,6 +38,8 @@ Currently, I’m deepening my skills and learning how to automate transformation
 | [**Key Indicators: Life Expectancy Analysis**](https://github.com/adrianc7/key-indicators-life-expectancy) | Regression-based study of WHO/UN global health data (2000–2015). Identified education, vaccination, and income equality as key predictors of life expectancy, with models refined for multicollinearity. | Python · pandas · statsmodels · seaborn · Regression |
 | [**Inter-University Summit Project Presentation**](https://github.com/adrianc7/inter-university-summit-project-presentation) | Presented a SQL + Power BI case study on how SQL Views optimize analytics integration. Demonstrated query simplification, server-side pre-aggregation, and efficient dashboard design. | SQL Server · T-SQL · Power BI |
 | [**Korean Lottery (Lotto 6/45) Data Analysis**](https://github.com/adrianc7/korean-lottery-analysis) | Exploratory analysis of Korean Lotto 6/45 historical draws. Performed EDA, statistical distribution analysis, and visualization of frequency trends using Python to study randomness and number behavior. | Python · pandas · matplotlib · seaborn · EDA |
+| [**Jetflix Snowflake Data Mart**](https://github.com/adrianc7/jetflix-snowflake-data-mart) | Designed a modular ELT pipeline and dimensional data mart for Jetflix, a mock streaming service. Built with dbt and Snowflake to transform OLTP data into a clean star schema supporting analytics on user activity, payments, and content engagement. A dashboard was created within Snowflake using our data mart. | Snowflake · dbt · SQL · AWS S3 · Lucidchart |
+
 
 ---
 
