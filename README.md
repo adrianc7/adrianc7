@@ -42,7 +42,11 @@ Currently, I'm deepening my skills in pipeline automation, data quality implemen
 | [**Korean Lottery (Lotto 6/45) Data Analysis**](https://github.com/adrianc7/korean-lottery-analysis) | Exploratory data analysis of Korean Lotto 6/45 draws. Investigated statistical distributions, number frequency, and randomness using Python-based analytics and data visualization techniques. | Python · pandas · matplotlib · seaborn · EDA · Probability Analysis |
 | [**NBA Player Stats Pipeline (AWS RDS + S3)**](https://github.com/adrianc7/nba-player-stats-pipeline) | Built a lightweight cloud data workflow to process NBA player statistics, load data into AWS RDS (MySQL), and publish an HTML leaderboard to Amazon S3. Used Python for ETL operations and Boto3 for automated file upload and hosting setup. | Python · pandas · PyMySQL · Boto3 · AWS RDS · Amazon S3 · Static Website Hosting |
 
+## Tableau Dashboards
 
+Explore some of my interactive data visualizations and dashboards:
+
+[**Tableau Public Portfolio**](https://public.tableau.com/app/profile/adrianchavezloya/vizzes)
 
 ---
 
