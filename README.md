@@ -1,11 +1,13 @@
 # Adrian Chavez-Loya  
-**Data Engineer | Data Analyst**
+**Data & Analytics Engineer**
 
-I'm a data engineer focused on bridging the gap between data engineering and analytics—building scalable systems that enable high-quality insights downstream. My work transforms raw, unstructured data into reliable, analytics-ready datasets through efficient pipelines, robust transformations, and strong data modeling practices.
+I consider myself an analytics engineer because I thrive on connecting data engineering with analytics. I want to be involved in the entire data journey, from the initial source systems all the way to the final insights and dashboards that drive business decisions.
 
-I'm passionate about understanding the complete data lifecycle—from ingestion and orchestration to modeling and visualization. Through hands-on projects, I'm exposing myself to a diverse technology ecosystem while maintaining core expertise in Python and SQL for data processing, and Tableau/Power BI alongside Python visualization libraries for analytical storytelling.
+I enjoy building scalable data systems that transform raw, messy data into reliable, analytics ready datasets using ETL/ELT processes, data warehousing, and solid modeling practices.
 
-Currently, I'm deepening my skills in pipeline automation, data quality implementation, and designing modern cloud data stacks that support seamless analytics and decision-making.
+I'm fascinated by how data moves through organizations and becomes actionable intelligence. I've become comfortable working with various tools and technologies including Python, SQL, Tableau, Power BI, and PySpark. I'm always exploring new techniques and tools for different business needs, currently diving into DuckDB, Apache Airflow, and streaming technologies like Kafka and Flink.
+
+This field constantly evolves and I'm committed to continuous learning, currently focusing on pipeline automation, data quality, and building cloud data stacks that make analytics seamless and decision making more effective.
 
 ---
 
