@@ -1,4 +1,4 @@
-# Adrian Chavez-Loya  
+# Adrian Chavez 
 **Data & Analytics Engineer**
 
 I consider myself an analytics engineer because I thrive on connecting data engineering with analytics. I want to be involved in the entire data journey, from the initial source systems all the way to the final insights and dashboards that drive business decisions.
