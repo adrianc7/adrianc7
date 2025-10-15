@@ -1,5 +1,5 @@
-# Adrian Chavez 
-**Data & Analytics Engineer**
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/9d72c43b-a2fe-431d-a9c3-2df71f9793cb" /># Adrian Chavez 
+**Data Analytics Engineer**
 
 I consider myself an analytics engineer because I thrive on connecting data engineering with analytics. I want to be involved in the entire data journey, from the initial source systems all the way to the final insights and dashboards that drive business decisions.
 
