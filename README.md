@@ -1,4 +1,8 @@
-**Data Analytics Engineer**
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif" alt="Data network animation" width="100%">
+</p>
+
+# Data Analytics Engineer
 
 I consider myself an analytics engineer because I thrive on connecting data engineering with analytics. I want to be involved in the entire data journey, from the initial source systems all the way to the final insights and dashboards that drive business decisions.
 
@@ -56,6 +60,7 @@ This field constantly evolves and I'm committed to continuous learning, currentl
 
 | Project | Description | Dashboard Link | Repository |
 |:--|:--|:--|:--|
+| **Shopify Sales Performance Dashboard** | Analytical Power BI dashboard built on anonymized Shopify e-commerce data, visualizing sales KPIs, product performance, customer behavior, and payment method distribution. | [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTE4ZTc2YzQtM2Q1OS00NWIxLWJkMDEtYjgzMmQxM2NlMjBiIiwidCI6ImFjMzUyZjliLWViNjMtNGNhMi05Y2Y5LWY0YzQwMDQ3Y2VmZiIsImMiOjZ9) | [GitHub Repo](https://github.com/adrianc7/shopify-sales-performance-dashboard) |
 | **World Happiness Analysis Dashboard** | Interactive exploration of global happiness trends, regional comparisons, and factor importance across 150+ countries from 2015-2019. | [View Tableau Dashboard](https://public.tableau.com/app/profile/adrianchavezloya/viz/WorldHappinessAnalysis_17604612913100/Dashboard) | [GitHub Repo](https://github.com/adrianc7/machine-learning-projects/tree/main/world-happiness-indicators-R) |
 | **HR Attrition & Satisfaction Dashboard** | Comprehensive analysis of employee attrition patterns, satisfaction scores, and workforce demographics to identify retention risks and improvement opportunities. | [View Tableau Dashboard](https://public.tableau.com/app/profile/adrianchavezloya/viz/HRAttritionStatisticsDashboard/HRAttritionandSatisfactionDashboard) | [GitHub Repo](https://github.com/adrianc7/data-analysis-visualizations/tree/main/hr-attrition-stats-dashboard) |
 | **Formula 1 Races Analysis Dashboard** | Interactive exploration of F1 race statistics, team performance, and historical trends across multiple seasons and circuits. | [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTFiZDUxNjItNjQxNC00ZTUzLTliNDYtZmNlYTM4ZjU4Y2JkIiwidCI6ImFjMzUyZjliLWViNjMtNGNhMi05Y2Y5LWY0YzQwMDQ3Y2VmZiIsImMiOjZ9) | [GitHub Repo](https://github.com/adrianc7/data-analysis-visualizations/tree/main/f1-races-dashboard) |
@@ -74,11 +79,11 @@ Explore my interactive dashboards and visualizations:
 
 ## Technical Skills
 
-**Languages:** Python, SQL, R, PySpark  
+**Languages:** Python, SQL, R, PySpark, STATA  
 **Cloud Platforms:** AWS, Azure, Snowflake  
 **Data Tools:** dbt, Databricks, Airflow, Power BI, Tableau  
 **Databases:** PostgreSQL, SQL Server, BigQuery  
-**Core Competencies:** Data Modeling, ETL/ELT, Pipeline Automation, Data Governance, Analytics Engineering  
+**Core Competencies:** Data Modeling, ETL/ELT, Pipeline Automation, Data Governance, Analytics Engineering, Hypothesis Testing, Econometrics, Statistical Inference  
 
 ---
 
